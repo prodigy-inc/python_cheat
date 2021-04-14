@@ -1,2 +1,3 @@
-token = "146085"
-channel_nick = "rwwq"
+token = "146085642"
+channel_nick = "rww"
+hotkey = 'Ctrl + Q'
